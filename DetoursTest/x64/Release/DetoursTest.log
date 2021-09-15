@@ -1,0 +1,9 @@
+﻿  dllmain.cpp
+  코드를 생성하고 있습니다.
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+detours.lib(detours.obj) : warning LNK4099: '' PDB를 'detours.lib(detours.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+detours.lib(modules.obj) : warning LNK4099: 'detours.pdb' PDB를 'detours.lib(modules.obj)' 또는 'C:\Users\USER\Desktop\DetoursTest\DetoursTest\x64\Release\detours.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+detours.lib(disasm.obj) : warning LNK4099: 'detours.pdb' PDB를 'detours.lib(disasm.obj)' 또는 'C:\Users\USER\Desktop\DetoursTest\DetoursTest\x64\Release\detours.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  DetoursTest.vcxproj -> C:\Users\USER\Desktop\DetoursTest\DetoursTest\x64\Release\DetoursTest.dll
